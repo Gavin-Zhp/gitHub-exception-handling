@@ -5,7 +5,7 @@ git命令
 git config --global user.name 'github userName'
 
 //设置邮箱
-git config --global user.name '...@qq.com'
+git config --global user.email '...@qq.com'
 
 //对项目初始化git
 git init
